@@ -1,7 +1,7 @@
 # 手写数字神经网络机器学习
 
 [![Static Badge](https://img.shields.io/badge/Open_on-GitCode-blue?logo=git)](https://gitcode.com/qq_55297504/handwritten_digits/overview)
-
+[![Static Badge](https://img.shields.io/badge/Open_on-GitHub-blue?logo=github)](https://github.com/lava-chen/handwritten_digits/)
 > [参考文章](http://neuralnetworksanddeeplearning.com/chap1.html)
 > 这是一个机器学习大神写的关于神经网络实现手写数字识别的文章，里面有详细的介绍和代码实现。
 > [参考视频](https://www.bilibili.com/video/BV1bx411M7Zx/?spm_id_from=333.999.0.0)
